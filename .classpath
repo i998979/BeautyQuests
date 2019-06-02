@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/Spigot-1.13.2-0c02b0c-20190425-0538.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/MythicMobs-4.5.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/Citizens-2.0.25-b1701.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/AccountsHook.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/Dynmap-3.0-beta-3-spigot.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/GPS.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/Jobs4.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/McCombatLevel.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/mcMMO.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/PlaceholderAPI-2.9.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/SkillAPI.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/worldguard-legacy-7.0.0-beta-02.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/Factions.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/MassiveCore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/HolographicDisplays.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/EpicBosses-1.0.8-U1 (1.13.x).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Brian/Desktop/Server/plugins/#DEPENDENCIES/Vault.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
